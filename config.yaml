@@ -4,12 +4,15 @@ DAILY_TIME: "8:00" # 每日定时发送时间。该时间为系统时间，如�
 
 START_DATE: "2022-01-01" # 纪念日
 CITY: "三河市"
+END_DATE: 
+  - "11-01"
 
 BIRTHDAY:
   - "11-01"
 
 APP_ID: "wx244862b7767d9c9a"
 APP_SECRET: "81fbfecbc4544f79ab6492138f901b9a"
+WEATHER_APIKEY: "f98b35e5362346d2bc7576ae09a368df"
 
 USER_ID: 
   - "oJtmN6EGZkbOpe5kDxM5N7o8ngVM"
